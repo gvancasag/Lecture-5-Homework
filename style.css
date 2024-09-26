@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.box {
+width: 1440px;
+height: 800px;
+background-color:  #D5E1EF;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.mini_box {
+width: 320px;
+height: 497px;
+background-color:  #FFF;
+border-radius: 20px;
+box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
+}
+.even_smaller {
+width: 288px;
+height: 288px;
+background-color: #2C7DFA ;
+margin: 16px;
+padding: 64px ;
+}
+.pic {
+width: 160px;
+height: 160px;
+}
+.text {
+width: 288px;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 80px;
+padding-right: 40px;
+}
+.paragraph { 
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.188px;
+width: 256px;
+padding-right: 30px;
+}
